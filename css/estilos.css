@@ -6,11 +6,13 @@ body{
   justify-content: center;
 }
 #container{
-  display: flex;
-  justify-content: center;
+  
   width: 70%;
   padding: 1em;
   border: 1px solid blueviolet;
+}
+#cabecera{
+  border: 2px solid red;
 }
 #post{
   text-transform: lowercase;
