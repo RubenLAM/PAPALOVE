@@ -17,6 +17,7 @@ body{
   background-color: rgb(189, 235, 219);
   margin: 0 auto;
   display: flex;
+  color: red;
 
 }
 #cabecera p{
