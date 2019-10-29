@@ -4,10 +4,10 @@ body{
   font-style: normal;
   color: red;
   display: flex;
+  border: 1px solid black;
   justify-content: center;
 }
 #container{
-  
   width: 70%;
   border: 1px solid blueviolet;
 
@@ -35,4 +35,10 @@ body{
   font-size: 20px;
   letter-spacing: -1px;
   text-decoration: dashed;
+}
+#footer{
+  width: 100%;
+  padding: .5em 0;
+  color: white;
+  background: rgb(226, 145, 87);
 }
