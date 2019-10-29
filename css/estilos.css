@@ -2,9 +2,10 @@ body{
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
   font-style: normal;
-  color: red;
+  color: rgb(54, 3, 3);
   display: flex;
   justify-content: center;
+  background: #e3ffff;
 }
 #container{
   
@@ -15,10 +16,10 @@ body{
 #cabecera {
   width: 100%;
   background-color: rgb(189, 235, 219);
-  margin: 0 auto;
+  margin: 0;
   display: flex;
-
-
+  padding: .5em 0;
+  align-items: center;
 }
 #cabecera p{
   padding: 0 .2em;
@@ -26,9 +27,13 @@ body{
   font-weight: bold;
 }
 #cabecera span{
-  margin: auto 4%;
+  margin: auto 0;
   font-size: 30px;
   font-style: italic;
+}
+.logo{
+  height: 100px;
+
 }
 #post{
   text-transform: lowercase;
