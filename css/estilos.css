@@ -41,6 +41,10 @@ body{
   letter-spacing: -1px;
   text-decoration: dashed;
 }
+#papa-central{
+  width: 300px;
+  height: auto;
+}
 #footer{
   width: 100%;
   padding: .5em 0;
