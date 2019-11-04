@@ -8,3 +8,4 @@ Experimento 2
 
 tiene 19 añosy esta meco
 Creado con amorts
+Incluye ejemplos en Windows Linux y Mac
